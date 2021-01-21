@@ -1,0 +1,41 @@
+div 
+    { 
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+        background: white;
+}
+
+body { background-color: #F7EDD8;
+}
+
+h1{ 
+    color:  #993300;
+    font: cursive;
+    text-align: center;
+    font-size: 200px;
+}
+p { font-family: ariel;
+    color:#0000ff;
+    font-family:cursive; 
+    text-align: center;
+    font-size: 30px;
+}
+
+div 
+h2 {
+    font-family: cursive;
+    font-size: 30px;
+    
+    
+}
+
+img {
+    align-content: space-around;
+    width: 150px;
+    height: 200px;
+}
+
+hr {
+    color: black
+}
